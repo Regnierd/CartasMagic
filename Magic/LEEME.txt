@@ -1,0 +1,12 @@
+El fichero index.html se tiene que abrir en "Open with live server" para que funcione
+correctamente la aplicación, ya que usamos un servidor de php y hacemos uso de localStorage
+y de cookies.
+
+En el fichero login.js, exactamente en la línea 56 hay que cambiar la ip por la del servidor de php
+o tener el fichero en local, pero tendríamos que tener php instalado.
+
+El fichero .php que nos lo dio el profesor de servidor se encuentra en la máquina virtual
+de servidor, como se ve en la línea 56 comentada anteriormente.
+
+Usuario: usuario
+Contraseña: 1234

@@ -1,0 +1,32 @@
+body{
+    background: #f8f8f8;   
+}
+
+.card{ 
+    background-color: rgba(255, 0, 0, 0.0);
+
+}
+
+.card img:hover{
+    -webkit-transform: scale(1.12);
+    -moz-transform: scale(1.12);
+    -ms-transform: scale(1.12);
+    -o-transform: scale(1.12);
+    transform: scale(1.12);
+    box-shadow: 5px 5px 5px rgb(46, 46, 46);
+    border-radius: 11px;
+}
+
+.card .myDeck:hover{
+    -webkit-transform: scale(1.10);
+    -moz-transform: scale(1.10);
+    -ms-transform: scale(1.10);
+    -o-transform: scale(1.10);
+    transform: scale(1.10);
+    box-shadow: 5px 5px 5px rgb(46, 46, 46);
+    border-radius: 11px;
+}
+
+.card img{
+    border-radius: 11px;
+}
